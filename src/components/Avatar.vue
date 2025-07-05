@@ -47,7 +47,7 @@ height: 80px;
   color: white;
   border-radius: 6px;
   padding: 20px;
-  margin-right: 20%; /* 👈 push it in from the right */
+  margin-right: 30%; 
   width: fit-content;
   padding-top: 30px;
 
